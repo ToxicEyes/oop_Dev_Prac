@@ -76,7 +76,7 @@ public class Prac1 {
 
 
 //-----------------------------------------------
- 
+ /*
  //EX-1-5
  int counter = 0;
  int no = Integer.parseInt(args[0]);
@@ -93,7 +93,7 @@ public class Prac1 {
  }
  else{
   System.out.println("Prime Number!");
- }
+ }*/
  //-----------------------------------------------
 
 
